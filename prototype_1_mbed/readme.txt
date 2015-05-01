@@ -1,0 +1,1 @@
+This prototype contains mbed based IoT solution
